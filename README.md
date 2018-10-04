@@ -10,3 +10,8 @@ http://ota.cdn.sunmi.com/DOC/resource/re_en/SunmiPrinter%20Developer%20documenta
 All the Functions are given in the 
 www/innerprinter.js
 for Function description you can refer to the documentation.
+
+this is a replica of 
+https://github.com/labibramadhan/cordova-sunmi-inner-printer
+
+Cut paper function is added in this repository.
