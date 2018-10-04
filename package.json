@@ -1,0 +1,38 @@
+{
+  "_from": "git+https://github.com/labibramadhan/cordova-sunmi-inner-printer.git",
+  "_id": "cordova-sunmi-inner-printer@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-sunmi-inner-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/labibramadhan/cordova-sunmi-inner-printer",
+    "rawSpec": "https://github.com/labibramadhan/cordova-sunmi-inner-printer",
+    "saveSpec": "git+https://github.com/labibramadhan/cordova-sunmi-inner-printer.git",
+    "fetchSpec": "https://github.com/labibramadhan/cordova-sunmi-inner-printer.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/labibramadhan/cordova-sunmi-inner-printer.git#067a445f748d097832981c132887da7439b037e4",
+  "_spec": "https://github.com/labibramadhan/cordova-sunmi-inner-printer",
+  "_where": "E:\\Test_Dev\\posprint",
+  "author": {
+    "name": "Muhammad Labib Ramadhan"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-sunmi-inner-printer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Sunmi V1 Inner Printer",
+  "license": "MIT",
+  "name": "cordova-sunmi-inner-printer",
+  "version": "1.0.0"
+}
