@@ -1,6 +1,6 @@
 # cordova-sunmi-inner-printer
 Inner Printer in Sunmi Devices
-
+Only functional with @android6.3.0
 You can refer to this Doc for more Details 
 
 https://docs.sunmi.com/htmls/index.html?lang=en##Print%20and%20Customer%20Display
